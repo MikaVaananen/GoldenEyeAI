@@ -22,6 +22,8 @@ Problems to solve:
 
 GoldenEyeAI will be used before wirebonding the layers together. The wirebond operator will place a glued module under a camera jig, that will take a high-resolution image of the module. The operator will then run GoldenEyeAI, which will measure the rotational and translational misalignment of the module layers.
 
+![Example image of a module](/module.jpg)
+
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 Images will make your README look nice!
